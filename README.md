@@ -2,6 +2,8 @@
 
 The Movie Recommendation Chatbot is an interactive application that recommends movies to users based on their preferences. The chatbot engages in a conversation with the user, understands their movie preferences, and provides personalized movie recommendations from a public movie database.
 
+![11502371-chatbot-artificial-intelligence-movie-bot-tutorial](https://github.com/dimitrachrl/Movie-Recommendation-Chatbot/assets/65720665/b0c6249d-01d2-4650-ab79-559082c0cebf)
+
 ## Features
 
 - User Input Analysis: The chatbot analyzes and understands user preferences through natural language processing techniques. It interprets user input and extracts relevant information about genres, actors, directors, or specific movies they like.
