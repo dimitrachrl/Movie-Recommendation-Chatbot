@@ -21,7 +21,7 @@ The Movie Recommendation Chatbot is an interactive application that recommends m
 ## Usage
 
 1. Install the required dependencies by running the following command: `pip install requests`
-2. Obtain an API key from the movie database API and replace `'YOUR_API_KEY'` with the actual API key in the code.
+2. Obtain an API key from the movie database API and replace with your actual API key in the code.
 3. Run the Python script `chatbot.py`.
 4. Interact with the chatbot by entering your movie preferences or other relevant inputs when prompted.
 5. The chatbot will provide personalized movie recommendations based on your preferences.
